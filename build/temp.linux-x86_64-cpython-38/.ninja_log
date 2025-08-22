@@ -1,0 +1,7 @@
+# ninja log v5
+0	5183	1708519257918769303	/home/lancer/3DGS/Relightable3DGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	d6cb118094762582
+0	5996	1708519258730772760	/home/lancer/3DGS/Relightable3DGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	36396910290a640e
+0	21204	1708519273938837200	/home/lancer/3DGS/Relightable3DGaussian/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	93dea3dadd384c99
+2	5441	1715593486546623727	/home/lancer/2DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	2fcfcfff44935fae
+2	11556	1715593492650625591	/home/lancer/2DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	1162cccd7e14b13a
+2	25652	1715593506754630824	/home/lancer/2DGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	d4daa8716b682f50
